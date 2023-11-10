@@ -427,11 +427,11 @@ const RiskAssessmentView = () => {
 			{showPopup && (
 				<div className='absolute top-20 left-1/2 transform -translate-x-1/2 bg-white p-4 border rounded-lg shadow-xl'>
 					<div className='text-sm'>
-						<p>Category: {formData.category}</p>
+						{/* <p>Category: {formData.category}</p>
 						<p>Policy: {formData.policy}</p>
 						<p>Citation: {formData.citation}</p>
 						<p>Site Visit: {formData.siteVisit}</p>
-						<p>Risk/Category: {formData.riskCategory}</p>
+						<p>Risk/Category: {formData.riskCategory}</p> */}
 						<h2 className='font-semibold'>
 							Risk Score :{' '}
 							<strong className='text-green-600'>
