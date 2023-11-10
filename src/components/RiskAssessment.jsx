@@ -178,9 +178,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 					<div>
@@ -196,9 +202,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 					<div>
@@ -214,9 +226,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 					<div>
@@ -232,9 +250,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 					<div>
@@ -250,9 +274,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 					<div>
@@ -268,9 +298,15 @@ const RiskAssessmentView = () => {
 							onChange={handleChange}
 							className='mt-1 block w-full rounded-md border-2 border-gray-400 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
 						>
-							<option value='1'>Low</option>
-							<option value='2'>Moderate</option>
-							<option value='3'>High</option>
+							<option value='1' className='text-green-600'>
+								Low
+							</option>
+							<option value='2' className='text-yellow-600'>
+								Moderate
+							</option>
+							<option value='3' className='text-red-600'>
+								High
+							</option>
 						</select>
 					</div>
 				</div>
