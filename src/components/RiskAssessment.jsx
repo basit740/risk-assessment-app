@@ -471,7 +471,7 @@ const RiskAssessmentView = () => {
 						<h2 className='font-semibold'>
 							Risk Score :{' '}
 							<strong className='text-green-600'>
-								{residualRiskTotal - inherentRiskTotal}
+								{(inherentRiskTotal / residualRiskTotal).toFixed(1)}
 							</strong>{' '}
 						</h2>
 						<h2 className='font-semibold'>
